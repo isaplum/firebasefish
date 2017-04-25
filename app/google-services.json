@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "131475615004",
+    "firebase_url": "https://unit13-firebasefish-isaplum-ma.firebaseio.com",
+    "project_id": "unit13-firebasefish-isaplum-ma",
+    "storage_bucket": "unit13-firebasefish-isaplum-ma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131475615004:android:a1695d7ecc99ba5e",
+        "android_client_info": {
+          "package_name": "css.cis3334.fishlocatorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131475615004-9nbp6pav0bj25pggkoolk3jgcejcgu8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334.fishlocatorfirebase",
+            "certificate_hash": "16e7d33df00f8d734d773c3966e09eb039c728d4"
+          }
+        },
+        {
+          "client_id": "131475615004-noqhuf9clogac8l0b1c0j8o426i1qnp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334.fishlocatorfirebase",
+            "certificate_hash": "443f2f761af0fd69db1262f45448bad05f9f39a2"
+          }
+        },
+        {
+          "client_id": "131475615004-pjvv38j37bvmpkl0rnkoogn5ffferhqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjxsaStvONtq1oaM6vwv8cEhctKdzF5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131475615004-pjvv38j37bvmpkl0rnkoogn5ffferhqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
